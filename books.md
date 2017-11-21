@@ -114,6 +114,7 @@ Book ID | Title | Author | Links
 1-D-28 | _Digital Apollo: Human and Machine in Spaceflight_ | David A. Mindell |  \| [Goodreads](https://www.goodreads.com/book/show/2422710)
 1-D-29 | _Chips and Change: How Crisis Reshapes the Semiconductor Industry_ | Clair Brown, Greg Linden | [Amazon](https://www.amazon.com/dp/0262013460?tag=ba0104-20) \| [Goodreads](https://www.goodreads.com/book/show/7555422)
 1-E-34 | _Postmortems from Game Developer: Insights from the Developers of Unreal Tournament, Black and White, Age of Empires, and Other Top-Selling Games_ | Austin Grossman | [Amazon](https://www.amazon.com/dp/1578202140?tag=ba0104-20) \| [Goodreads](https://www.goodreads.com/book/show/85001)
+1-E-? | _A New Kind of Science_ | Stephen Wolfram | [Amazon](https://www.amazon.com/dp/1579550088) \| [Goodreads](https://www.goodreads.com/book/show/238558)
 1-F-2 | _Cognitive Surplus: Creativity and Generosity in a Connected Age by Clay Shirky_ | Clay Shirky | [Amazon](https://www.amazon.com/dp/B01FIVY6IC?tag=ba0104-20) \| [Goodreads](https://www.goodreads.com/book/show/7614793)
 2-A-4 | _Alan Turing: The Enigma_ | Andrew Hodges | [Amazon](https://www.amazon.com/dp/0671492071?tag=ba0104-20) \| [Goodreads](https://www.goodreads.com/book/show/1043189)
 2-A-5 | _The Dead Hand: The Untold Story of the Cold War Arms Race and Its Dangerous Legacy_ | David Hoffman | [Amazon](https://www.amazon.com/dp/0307387844?tag=ba0104-20) \| [Goodreads](https://www.goodreads.com/book/show/6623920)
